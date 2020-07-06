@@ -1,6 +1,6 @@
 # Gerador massa de dados QA
 >  Gerador de massa de dados, faz parte de um projeto de arquitetura de QA.
->  A massa pode ser usado em formulario para cadastra uma pessoa,
+>  A massa gera uma arquivo CSV, que pode ser usado em formulario para cadastra uma pessoa,
 >  pode ser usado em teste funcional ou teste usando Jmeter
 
 ![Semantic description of image](./diagrama.png)</p>
