@@ -30,4 +30,4 @@
 
 > * Instalação Webdriver Manager for Python
 >  * pip install webdriver_manager
->  * url https://pypi.org/project/webdriver-manager/# geradorMassaQA
+>  * url https://pypi.org/project/webdriver-manager/#
