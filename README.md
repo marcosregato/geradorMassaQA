@@ -31,3 +31,25 @@
 > * Instalação Webdriver Manager for Python
 >  * pip install webdriver_manager
 >  * url https://pypi.org/project/webdriver-manager/#
+
+# Links dos projetos da arquitetura.
+> __Modelo Teste Funcional__
+> [GitHub Pages](https://github.com/marcosregato/modeloTesteFuncional).</br>
+
+> __Painel Teste Angular__
+> [GitHub Pages](https://github.com/marcosregato/painelTesteAngular).</br>
+
+> __Api Teste MongoDB__
+> [GitHub Pages](https://github.com/marcosregato/apiTesteMongoDB).</br>
+
+> __convert CSV to JSON__
+> [GitHub Pages](https://github.com/marcosregato/convertCSVtoJSON).</br>
+
+> __Data Science QA__
+> [GitHub Pages](https://github.com/marcosregato/dataScienceQA).</br>
+
+> __Teste Api QA__
+> [GitHub Pages](https://github.com/marcosregato/testeApiQA).</br>
+
+> __Gerador massa de dados QA__
+> [GitHub Pages](https://github.com/marcosregato/geradorMassaQA).</br>
