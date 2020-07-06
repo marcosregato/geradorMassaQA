@@ -12,11 +12,11 @@
 
 > __Ferramenta de desenvolvimento__
 
->  Python 3
->  Dumper
->  Faker
->  Selenium
->  WebDriver Manager
+> * Python 3
+> * Dumper
+> * Faker
+> * Selenium
+> * WebDriver Manager
 
 > __Instalação das Modulos__
 > * Instalação do Dumper e Faker 
