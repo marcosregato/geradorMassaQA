@@ -5,8 +5,9 @@ from urllib.error import HTTPError
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import time
+import mysql.connector
 
-arquivoCSV = "./massaTeste.csv"
+#arquivoCSV = "./massaTeste.csv"
 
 def geradorMassaFake(qtdMassa):
 
@@ -103,4 +104,25 @@ def gerarMassa(listInfo):
     except Exception as e:
         print(e)
 
-gerarMassa(geradorMassaSelenium(10))
+def connectionMySQL():
+    try:
+        connection = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="@@",
+            database="dataBasaQA"
+        )
+
+        cursor = connection.cursor()
+        
+        query = "INSERT INTO massaFuncional (nome,telefone,endereco,bairro,cidade,estado,cep,email)VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        cursor.execute(query)
+
+        connection.commit()
+        
+    except mysql.connector.Error as error:
+        
+        print("Falha na conexao no banco de dados {}".format(error))
+
+
+#gerarMassa(geradorMassaSelenium(10))
