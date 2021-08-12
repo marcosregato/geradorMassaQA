@@ -48,8 +48,8 @@
 > __Data Science QA__
 > [GitHub Pages](https://github.com/marcosregato/dataScienceQA).</br>
 
-> __Teste Api QA__
-> [GitHub Pages](https://github.com/marcosregato/testeApiQA).</br>
+> __Api QA__
+> [GitHub Pages](https://github.com/marcosregato/apiQA).</br>
 
 > __Test Api QA__
 > [GitHub Pages](https://github.com/marcosregato/testApiQA).</br>
