@@ -33,8 +33,9 @@
 >  * url https://pypi.org/project/webdriver-manager/#
 
 # Links dos projetos da arquitetura.
-> __Modelo Teste Funcional__
-> [GitHub Pages](https://github.com/marcosregato/modeloTesteFuncional).</br>
+
+> __Teste Funcional QA__
+> [Link do projeto](https://github.com/marcosregato/funcionalQA).</br>
 
 > __Painel Teste Angular__
 > [GitHub Pages](https://github.com/marcosregato/painelTesteAngular).</br>
